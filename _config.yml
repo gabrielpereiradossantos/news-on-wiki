@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: News on Wiki
-email: your-email@example.com
+# email: your-email@example.com
 description: Notícias publicadas por mim no Wikinotícias, projeto da Fundação Wikimedia, mantedora da Wikipédia
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://newsonwiki.gabrieldossantos.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: gabrieldelsaint
+github_username: gabrielpereiradossantos
 
 lang: pt-br
 
